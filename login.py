@@ -22,3 +22,6 @@ if autenticado:
     print(f'Bem-vindo, {nome_usuario}!')
 else:
     print('Usuário ou senha incorretos.')
+
+# criar funcao para validar se o usuario esta logado
+# criar funcao para validar se o usuario esta logado
